@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chromedriver": "^120.0.1",
+    "mocha": "^10.2.0",
+    "save-dev": "^0.0.1-security",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
